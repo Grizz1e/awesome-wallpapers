@@ -6,7 +6,7 @@
 
 ![1](/vehicles/1920x1080/1.jpg)
 
-1920x1080 | [Top](#content) | <a href="https://raw.githubusercontent.com/Grizz1e/awesome-wallpapers/main/vehicles/1920x1080/1.jpg" download></a>
+1920x1080 | [Top](#content) | <a href="https://raw.githubusercontent.com/Grizz1e/awesome-wallpapers/main/vehicles/1920x1080/1.jpg" download>Download</a>
 
 ![2](/vehicles/1920x1080/2.jpg)
 
